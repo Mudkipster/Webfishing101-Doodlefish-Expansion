@@ -1,0 +1,3 @@
+These Original Fish Images were obtained from the wiki and were used to make the placeholder sprites. Use these as references unless you want to go into the game yourself to get better angles.
+
+When creating sprites, get creative, fill the space, change the posing and proportions. For example, make the sharks larger and longer so they look like the ones from vanilla WEBFISHING. If it makes it look better, go ahead!
