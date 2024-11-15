@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Golden Goose Doodlefish"
+item_name = "golden_goose_doodlefish"
 item_description = "Goosius Drawnicus"
 catch_blurb = "Don't choke it..."
 item_is_hidden = false
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,13 +27,13 @@ tier = 2
 catch_difficulty = 5
 catch_speed = 120
 loot_table = "lake"
-loot_weight = 0.1
+loot_weight = 0.08
 average_size = 50
 sell_value = 100
 sell_multiplier = 5
 obtain_xp = 200
 generate_worth = true
 can_be_sold = true
-rare = true
+rare = false
 show_bait = false
 detect_item = false

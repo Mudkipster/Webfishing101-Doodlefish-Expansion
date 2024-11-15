@@ -5,9 +5,9 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Elik Silverfist Doodlefish"
+item_name = "elik_silverfist_doodlefish"
 item_description = "Silverfistus Drawnicus"
-catch_blurb = "Quite bazaar seeing a human here huh? (this is only funny if you know who this character is)"
+catch_blurb = "(If you have a good idea for this blurb, @MudKipster on the Webfishing Modding Discord!)"
 item_is_hidden = false
 icon = ExtResource( 2 )
 show_item = true
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,7 +27,7 @@ tier = 0
 catch_difficulty = 1
 catch_speed = 120
 loot_table = "lake"
-loot_weight = 1
+loot_weight = 0.68
 average_size = 50
 sell_value = 25
 sell_multiplier = 1

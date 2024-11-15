@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Flytrap Doodlefish"
+item_name = "flytrap_doodlefish"
 item_description = "Leafus Trapus Drawnicus"
 catch_blurb = "...Okay now hear me out-"
 item_is_hidden = false
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true

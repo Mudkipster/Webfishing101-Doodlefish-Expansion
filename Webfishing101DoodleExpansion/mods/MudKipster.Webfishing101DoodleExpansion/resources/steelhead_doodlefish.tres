@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Steelhead Doodlefish"
+item_name = "steelhead_doodlefish"
 item_description = "Steelus Drawnicus"
 catch_blurb = "Not to be confused with a metalhead"
 item_is_hidden = false
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true

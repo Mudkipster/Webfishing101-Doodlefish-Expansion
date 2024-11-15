@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Napoleguin Doodlefish"
+item_name = "napoleguin_doodlefish"
 item_description = "Napoleus Drawnicus"
 catch_blurb = "This fish is actually average height for the time."
 item_is_hidden = false
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,7 +27,7 @@ tier = 1
 catch_difficulty = 3.1
 catch_speed = 120
 loot_table = "ocean"
-loot_weight = 0.55
+loot_weight = 0.35
 average_size = 40
 sell_value = 145
 sell_multiplier = 1

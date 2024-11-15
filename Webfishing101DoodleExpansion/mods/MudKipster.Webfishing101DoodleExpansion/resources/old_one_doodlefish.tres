@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Old One Doodlefish"
+item_name = "old_one_doodlefish"
 item_description = "Squidicus Drawnicus"
 catch_blurb = "!!!DARK LORD¡¡¡"
 item_is_hidden = false
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,7 +27,7 @@ tier = 1
 catch_difficulty = 4
 catch_speed = 120
 loot_table = "ocean"
-loot_weight = 0.3
+loot_weight = 0.21
 average_size = 50
 sell_value = 225
 sell_multiplier = 1

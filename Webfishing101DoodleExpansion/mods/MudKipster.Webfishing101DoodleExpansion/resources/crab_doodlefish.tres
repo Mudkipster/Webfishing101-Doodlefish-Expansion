@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Crab Doodlefish"
+item_name = "crab_doodlefish"
 item_description = "Crab Drawnicus"
 catch_blurb = "Craaaab doodle. Craaaab doodle. Taste like cardboard, look like Crab- wait shit that's not how it goes..."
 item_is_hidden = false
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,7 +27,7 @@ tier = 1
 catch_difficulty = 1
 catch_speed = 120
 loot_table = "ocean"
-loot_weight = 0.95
+loot_weight = 0.4
 average_size = 50
 sell_value = 65
 sell_multiplier = 1

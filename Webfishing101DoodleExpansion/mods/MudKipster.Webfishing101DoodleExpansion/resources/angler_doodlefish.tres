@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Angler Doodlefish"
+item_name = "angler_doodlefish"
 item_description = "Anglus Drawnicus"
 catch_blurb = "Weirdly mechanical..."
 item_is_hidden = false
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,7 +27,7 @@ tier = 2
 catch_difficulty = 6
 catch_speed = 120
 loot_table = "ocean"
-loot_weight = 0.4
+loot_weight = 0.21
 average_size = 50
 sell_value = 90
 sell_multiplier = 4

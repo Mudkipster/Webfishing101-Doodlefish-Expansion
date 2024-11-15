@@ -5,9 +5,9 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Water Mole Doodlefish"
+item_name = "water_mole_doodlefish"
 item_description = "Molus Drawnicus"
-catch_blurb = "Mole? Kinda looks a platypus-"
+catch_blurb = "(If you have a good idea for this blurb, @MudKipster on the Webfishing Modding Discord!)"
 item_is_hidden = false
 icon = ExtResource( 2 )
 show_item = true
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,7 +27,7 @@ tier = 1
 catch_difficulty = 2
 catch_speed = 120
 loot_table = "rain"
-loot_weight = 0.8
+loot_weight = 0.45
 average_size = 50
 sell_value = 110
 sell_multiplier = 2

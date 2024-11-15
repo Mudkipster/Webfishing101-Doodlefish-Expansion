@@ -5,9 +5,9 @@
 
 [resource]
 script = ExtResource( 1 )
-item_name = "Mummified Doodlefish"
+item_name = "mummified_doodlefish"
 item_description = "Mummicus Drawnicus"
-catch_blurb =  "Yummy Mummy makes your tummy go 'yummy'! Heh, heh, heh!"
+catch_blurb = "(If you have a good idea for this blurb, @MudKipster on the Webfishing Modding Discord!)"
 item_is_hidden = false
 icon = ExtResource( 2 )
 show_item = true
@@ -19,7 +19,7 @@ release_action = ""
 prop_code = ""
 help_text = ""
 arm_value = 0.2
-hold_offset = -20
+hold_offset = 0.0
 unselectable = false
 category = "fish"
 alive = true
@@ -27,7 +27,7 @@ tier = 0
 catch_difficulty = 1.2
 catch_speed = 120
 loot_table = "ocean"
-loot_weight = 0.9
+loot_weight = 0.6
 average_size = 50
 sell_value = 45
 sell_multiplier = 1
